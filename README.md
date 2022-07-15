@@ -1,6 +1,6 @@
 # NLP Skill Tree : 
-底下提供一張我個人覺得畫得很好的圖，完美詮釋NLP與其他資訊科學領域的交集關係。
-![image](./data/img/NLP.png)
+底下提供一張我個人覺得畫得很好的圖，完美詮釋NLP與其他資訊科學領域的交集關係。<br>
+![image](./data/img/nlp.png)
 
 ## 1.Preprocessing(預/前處理) : 
 - 以NLP來說，preprocessing通常包含兩個重要工作：爬蟲(crawling)及斷詞(tokenization)。
