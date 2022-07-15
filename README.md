@@ -25,9 +25,12 @@
     - 因此Word2vec有了升級版BOW Model-> TF-IDF/ CBoW
         - TF-IDF
         - CBoW(Continuous Bag of Words)
+    
+    - 其餘 Model 架構 : 
         - CNN
         - RNN
         - LSTM
+        - GloVe
 
 ## 3.Run and take the Result(執行任務/產出結果) : 
     - 
