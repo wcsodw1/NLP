@@ -17,6 +17,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
+from sklearn.naive_bayes import GaussianNB # 貝氏分類器
+
 # TSNE : 降維工具 : 
 - from sklearn.manifold import TSNE
 
@@ -32,3 +34,19 @@ from sklearn.decomposition import PCA
 
 
 from sklearn import metrics
+
+#
+本文覆盖的NLP方法有:
+
+TF-IDF
+Count Features
+Logistic Regression
+Naive Bayes
+SVM
+Xgboost
+Grid Search
+Word Vectors
+Dense Network
+LSTM
+GRU
+Ensembling
