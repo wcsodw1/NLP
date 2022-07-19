@@ -1,4 +1,4 @@
-# python Advance3class_sentimentAnalysis.py
+# python Advance3class_SentimentAnalysis.py
 
 from transformers import pipeline  # 通郭使用pipeline, 可以自動從模型存儲中下載合適的模型
 import os

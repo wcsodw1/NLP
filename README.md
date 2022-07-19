@@ -1,5 +1,10 @@
 # NLP Skill Tree : 
-底下提供一張我個人覺得畫得很好的圖，完美詮釋NLP與其他資訊科學領域的交集關係。<br>
+
+- NLP STEP : Document --> Language Detection --> Preprocessing --> Modeling --> TasK/Output
+![image](./data/img/nlp_3Step.png)
+
+
+- 底下提供一張我個人覺得畫得很好的圖，完美詮釋NLP與其他資訊科學領域的交集關係。<br>
 ![image](./data/img/nlp.png)
 
 ## 1.Preprocessing(預/前處理) : 
